@@ -54,6 +54,8 @@
 
 ### 6. Screenshots 
 
+Dashboard :(https://github.com/Sakshi-Bamane/Shopify-Dashboard/blob/main/snapshot%20of%20dashboard.png)
+
 
 
   
