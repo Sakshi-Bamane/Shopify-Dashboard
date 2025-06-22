@@ -11,12 +11,23 @@
 
 3. Tech Stack
 
-📊Power BI Desktop - Main data visualization platform used for report creation.
+ 📊Power BI Desktop - Main data visualization platform used for report creation.
 
-📂Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+ 📂Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 
-🧠DAX(Data Analytics Expressions) - Used for calcultaed measures, dynamic visuals, and conditional logic.
+ 🧠DAX(Data Analytics Expressions) - Used for calcultaed measures, dynamic visuals, and conditional logic.
 
-📝Data Modelling - Established relationships among tables(shopify data, customers, products) to enable cross-filtering and aggregations.
+ 📝Data Modelling - Established relationships among tables(shopify data, customers, products) to enable cross-filtering and aggregations.
 
-📁File Format- .pbix for development and .png for dashboard previews.
+ 📁File Format- .pbix for development and .png for dashboard previews.
+
+4. Data Source
+
+
+5. Features / Highlights
+
+Business Problem</br>
+Goal of the Dashboard</br>
+Walk through of key visuals</br>
+Business impact and Insights</br>
+
