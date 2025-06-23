@@ -3,7 +3,7 @@
  
    Shopify Sales Analytics : Shopify Sales & Customer Insight Dashboard
 
-    A dynamic, interactive dashboard designed to visualize shopify sales performance across regions, track customer behavior trends, monitor KPIs with regional focus on India.
+A dynamic, interactive dashboard designed to visualize shopify sales performance across regions, track customer behavior trends, monitor KPIs with regional focus on India.
 
 ### 2. Short Description / Purpose
   
@@ -28,13 +28,13 @@
 ▪️Business impact and Insights</br>
 
 ▪️Business Problem:</br>
-   The business face challenges in tracking overall sales performance, understanding customer purchasing behavior, identifying product trends and analyzing    regional sales distribution for driving informed decisions.
+     The business face challenges in tracking overall sales performance, understanding customer purchasing behavior, identifying product trends and analyzing    regional sales distribution for driving informed decisions.
 
 ▪️Goal of the Dashboard:</br>
-   To build an interactive and insightful Power BI dashboard that offers clear visibility into key sales KPIs, customers metrics, payments methods and regional sales trends ultimayely supporting the better business strategies and customer retention efforts.
+     To build an interactive and insightful Power BI dashboard that offers clear visibility into key sales KPIs, customers metrics, payments methods and regional sales trends ultimayely supporting the better business strategies and customer retention efforts.
 
 ▪️Walk through of key visuals:</br>
-   Transaction KPIs(Top Left) : Display total sales, quantity sold and average order value.</br>
+     Transaction KPIs(Top Left) : Display total sales, quantity sold and average order value.</br>
    Customer Behavior KPIs : Breaks down total customers, repeat vs single-time buyers , repeat rate and purchase frequency.
 
    Regional Map(Map Visual) : Visualizes net sales by province across India for geographic insights. Helping to identify regional performance patterns and sales  hotspots.
