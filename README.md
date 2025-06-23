@@ -30,12 +30,15 @@ The data was imported and cleaned using Power Query.
 ▪️Business impact and Insights</br>
 
 ▪️Business Problem:</br>
+     
      The business face challenges in tracking overall sales performance, understanding customer purchasing behavior, identifying product trends and analyzing    regional sales distribution for driving informed decisions.
 
 ▪️Goal of the Dashboard:</br>
+     
      To build an interactive and insightful Power BI dashboard that offers clear visibility into key sales KPIs, customers metrics, payments methods and regional sales trends ultimayely supporting the better business strategies and customer retention efforts.
 
 ▪️Walk through of key visuals:</br>
+     
      Transaction KPIs(Top Left) : Display total sales, quantity sold and average order value.</br>
    Customer Behavior KPIs : Breaks down total customers, repeat vs single-time buyers , repeat rate and purchase frequency.
 
@@ -48,6 +51,7 @@ The data was imported and cleaned using Power Query.
    Product Category Breakdown(Bar chart) : It shows a net sales across key categories such as clothing ,accessories, gloceries, etc.
 
  ▪️Business impact and Insights:</br>
+    
     🔸Identify top-performing regions and products.</br>
     🔸Optimize marketing strategies for repeat customers.</br>
     🔸Monitor payment trend to support financial forecasting.</br>
