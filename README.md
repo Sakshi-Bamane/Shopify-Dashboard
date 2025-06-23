@@ -35,27 +35,27 @@ The data was imported and cleaned using Power Query.
 
 ▪️Goal of the Dashboard:</br>
      
-     To build an interactive and insightful Power BI dashboard that offers clear visibility into key sales KPIs, customers metrics, payments methods and regional sales trends ultimayely supporting the better business strategies and customer retention efforts.
+ To build an interactive and insightful Power BI dashboard that offers clear visibility into key sales KPIs, customers metrics, payments methods and regional sales trends ultimayely supporting the better business strategies and customer retention efforts.
 
 ▪️Walk through of key visuals:</br>
      
-     Transaction KPIs(Top Left) : Display total sales, quantity sold and average order value.</br>
-   Customer Behavior KPIs : Breaks down total customers, repeat vs single-time buyers , repeat rate and purchase frequency.
+ Transaction KPIs(Top Left) : Display total sales, quantity sold and average order value.</br>
+ Customer Behavior KPIs : Breaks down total customers, repeat vs single-time buyers , repeat rate and purchase frequency.
 
-   Regional Map(Map Visual) : Visualizes net sales by province across India for geographic insights. Helping to identify regional performance patterns and sales  hotspots.
+ Regional Map(Map Visual) : Visualizes net sales by province across India for geographic insights. Helping to identify regional performance patterns and sales   hotspots.
 
-   Sales Trend Over Time(Line Chart) : A time series line chart visualzes daily net sales,allowing businesses to track growth trends and analyze promotional impacts.
+ Sales Trend Over Time(Line Chart) : A time series line chart visualzes daily net sales,allowing businesses to track growth trends and analyze promotional impacts.
 
-   Payment Method Distribution(Donut chart) : A donut chart highlights the share of sales by different gateways like UPI, Paypal and others.
+ Payment Method Distribution(Donut chart) : A donut chart highlights the share of sales by different gateways like UPI, Paypal and others.
 
-   Product Category Breakdown(Bar chart) : It shows a net sales across key categories such as clothing ,accessories, gloceries, etc.
+ Product Category Breakdown(Bar chart) : It shows a net sales across key categories such as clothing ,accessories, gloceries, etc.
 
  ▪️Business impact and Insights:</br>
     
-    🔸Identify top-performing regions and products.</br>
-    🔸Optimize marketing strategies for repeat customers.</br>
-    🔸Monitor payment trend to support financial forecasting.</br>
-    🔸Make informed operational decisions based on real time sales trend.</br>
+ 🔸Identify top-performing regions and products.</br>
+ 🔸Optimize marketing strategies for repeat customers.</br>
+ 🔸Monitor payment trend to support financial forecasting.</br>
+ 🔸Make informed operational decisions based on real time sales trend.</br>
 
 ### 6. Screenshots 
 
